@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class P19 {
+public class search_enggine {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         String[] daftarSeries = {""};
