@@ -1,13 +1,11 @@
 // not finish yet, 
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class search_enggine {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
-        String[] daftarSeries = {""};
-        String[] daftarFilm = {"Avengers", "Spider-Man", "Batman", "Superman", "Thor"};
+
         // PROJECT SEARCH ENGGINE FILM
         // film.toLowerCase().contains(cari.toLowerCase()) → mencari kata di mana saja, bukan hanya awalan.
                 /*. Bedanya startsWith() vs contains()
